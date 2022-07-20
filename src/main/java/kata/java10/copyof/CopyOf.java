@@ -1,4 +1,4 @@
-package copyof;
+package kata.java10.copyof;
 
 import java.util.List;
 

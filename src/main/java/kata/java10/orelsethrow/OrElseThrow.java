@@ -1,4 +1,4 @@
-package orelsethrow;
+package kata.java10.orelsethrow;
 
 import java.util.List;
 

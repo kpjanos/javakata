@@ -1,4 +1,4 @@
-package unmodifiable;
+package kata.java10.unmodifiable;
 
 import java.util.List;
 
