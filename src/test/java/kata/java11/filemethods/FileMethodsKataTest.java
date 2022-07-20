@@ -1,4 +1,4 @@
-package filemethods;
+package kata.java11.filemethods;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;

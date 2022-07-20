@@ -1,4 +1,4 @@
-package predicatenot;
+package kata.java11.predicatenot;
 
 import java.util.List;
 

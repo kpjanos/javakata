@@ -1,4 +1,4 @@
-package filemethods;
+package kata.java11.filemethods;
 
 import java.io.IOException;
 import java.nio.file.Path;

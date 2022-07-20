@@ -1,4 +1,4 @@
-package toarray;
+package kata.java11.toarray;
 
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package stringmethods;
+package kata.java11.stringmethods;
 
 public class StripKata {
 
