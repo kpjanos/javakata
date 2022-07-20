@@ -1,4 +1,4 @@
-package interfaceprivatemethod;
+package kata.java9.interfaceprivatemethod;
 
 public class Calculator implements CalculatorInterface {
 

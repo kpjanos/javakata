@@ -1,4 +1,4 @@
-package setof;
+package kata.java9.setof;
 
 import java.util.Set;
 

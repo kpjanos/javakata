@@ -1,4 +1,4 @@
-package setof;
+package kata.java9.setof;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;

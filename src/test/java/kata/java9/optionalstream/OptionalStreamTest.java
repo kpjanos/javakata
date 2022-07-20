@@ -1,4 +1,4 @@
-package optionalstream;
+package kata.java9.optionalstream;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;

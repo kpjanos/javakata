@@ -1,4 +1,4 @@
-package interfaceprivatemethod;
+package kata.java9.interfaceprivatemethod;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;

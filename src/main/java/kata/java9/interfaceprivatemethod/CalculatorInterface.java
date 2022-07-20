@@ -1,4 +1,4 @@
-package interfaceprivatemethod;
+package kata.java9.interfaceprivatemethod;
 
 import java.util.function.IntPredicate;
 
